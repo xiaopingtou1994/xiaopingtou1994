@@ -1,0 +1,6 @@
+echo "# xiaopingtou1994" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/xiaopingtou1994/xiaopingtou1994.git
+git push -u origin master
